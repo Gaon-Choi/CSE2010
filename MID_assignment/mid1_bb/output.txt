@@ -1,0 +1,9 @@
+Deletion failed. 19 does not exist.
+1 2 2 4 5 
+1 is in the tree.
+2 is in the tree.
+4 is in the tree.
+5 is in the tree.
+19 is not in the tree.
+Deletion failed. 2 does not exist.
+1 4 5 
